@@ -1,0 +1,26 @@
+body{
+  background-color:lightblue;
+  color: gray;
+  align-content: center;
+  width: auto;
+  flex-wrap: wrap;
+  font-family: "Gill Sans", sans-serif;
+}
+
+a {
+  color: cadetblue;
+  font-size: 40px;
+}
+
+h1 {
+  color: cadetblue;
+}
+
+header {
+  text-align: center;
+  font-size: 50px;
+}
+
+ul.li.a {
+  font-size: 30px;
+}
